@@ -33,12 +33,4 @@ public class StatistiqueImplement implements Statistique {
 
         return prixFinal;
     }
-
-
-    @Override
-    public String toString() {
-        return "service{" +
-                "listeVoiture=" + listeVoiture +
-                '}';
-    }
 }
