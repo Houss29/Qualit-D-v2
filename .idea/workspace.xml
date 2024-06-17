@@ -9,39 +9,14 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="346" />
+  </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/houssna/Voiture.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-              <folding>
-                <element signature="e#243#244#0" expanded="true" />
-                <element signature="e#272#273#0" expanded="true" />
-                <element signature="e#302#303#0" expanded="true" />
-                <element signature="e#329#330#0" expanded="true" />
-                <element signature="e#374#375#0" expanded="true" />
-                <element signature="e#411#412#0" expanded="true" />
-                <element signature="e#451#452#0" expanded="true" />
-                <element signature="e#484#485#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/houssna/VoitureTest.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -66,8 +41,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/houssna/StatistiqueTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-30">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="-182">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -89,11 +64,38 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.github/workflows/actions.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+            <state relative-caret-position="255">
+              <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/houssna/SuiteDeTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/example/demo/DemoApplicationTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="2" selection-start-column="2" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/demo/DemoApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="2" selection-start-column="2" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -101,8 +103,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Service/StatistiqueImplement.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="313">
-              <caret line="36" selection-start-line="36" selection-end-line="36" />
+            <state relative-caret-position="403">
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#236#245#0" expanded="true" />
@@ -135,8 +137,12 @@
         <option value="$PROJECT_DIR$/src/main/java/houssna/Voiture.java" />
         <option value="$PROJECT_DIR$/src/main/java/Service/Statistique.java" />
         <option value="$PROJECT_DIR$/src/main/java/Service/StatistiqueImplement.java" />
-        <option value="$PROJECT_DIR$/src/test/java/houssna/StatistiqueTest.java" />
         <option value="$PROJECT_DIR$/.github/workflows/actions.yml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/demo/DemoApplication.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/example/demo/DemoApplicationTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/houssna/StatistiqueTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/houssna2/SuiteDeTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/houssna/SuiteDeTests.java" />
       </list>
     </option>
   </component>
@@ -206,6 +212,14 @@
               <item name="Qdev2" type="b2602c69:ProjectViewProjectNode" />
               <item name="Qdev2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Qdev2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Qdev2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -214,6 +228,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Qdev2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Qdev2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Qdev2" type="b2602c69:ProjectViewProjectNode" />
@@ -253,7 +275,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.StatistiqueTest (2)">
+  <component name="RunManager" selected="JUnit.SuiteDeTests">
     <configuration name="StatistiqueTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Qdev2" />
       <extension name="coverage">
@@ -299,44 +321,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VoitureTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Qdev2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="houssna.voiture" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="houssna" />
-      <option name="MAIN_CLASS_NAME" value="houssna.VoitureTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="VoitureTest.testVoiture" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SuiteDeTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Qdev2" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="houssna.*" />
           <option name="ENABLED" value="true" />
         </pattern>
+        <pattern>
+          <option name="PATTERN" value="houssna.StatistiqueTest" />
+          <option name="ENABLED" value="false" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="Service.Statistique" />
+          <option name="ENABLED" value="false" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="Service.StatistiqueImplement" />
+          <option name="ENABLED" value="false" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="Service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="houssna" />
-      <option name="MAIN_CLASS_NAME" value="houssna.VoitureTest" />
-      <option name="METHOD_NAME" value="testVoiture" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="houssna.SuiteDeTests" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="JUnit.StatistiqueTest" />
+      <item itemvalue="JUnit.StatistiqueTest (1)" />
+      <item itemvalue="JUnit.StatistiqueTest (2)" />
+      <item itemvalue="JUnit.SuiteDeTests" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SuiteDeTests" />
+        <item itemvalue="JUnit.SuiteDeTests" />
+        <item itemvalue="JUnit.StatistiqueTest" />
         <item itemvalue="JUnit.StatistiqueTest (2)" />
         <item itemvalue="JUnit.StatistiqueTest (1)" />
-        <item itemvalue="JUnit.StatistiqueTest" />
-        <item itemvalue="JUnit.VoitureTest" />
-        <item itemvalue="JUnit.VoitureTest.testVoiture" />
       </list>
     </recent_temporary>
   </component>
@@ -354,25 +384,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="VoitureTest - 2024.06.17 at 14h 17m 53s.xml">
-      <configuration name="VoitureTest" configurationId="JUnit" />
+    <history-entry file="SuiteDeTests - 2024.06.17 at 15h 55m 02s.xml">
+      <configuration name="SuiteDeTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="VoitureTest - 2024.06.17 at 14h 32m 14s.xml">
-      <configuration name="VoitureTest" configurationId="JUnit" />
+    <history-entry file="SuiteDeTests - 2024.06.17 at 15h 56m 43s.xml">
+      <configuration name="SuiteDeTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StatistiqueTest_(2) - 2024.06.17 at 15h 18m 52s.xml">
+    <history-entry file="StatistiqueTest_(2) - 2024.06.17 at 15h 58m 14s.xml">
       <configuration name="StatistiqueTest (2)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StatistiqueTest_(2) - 2024.06.17 at 15h 20m 20s.xml">
-      <configuration name="StatistiqueTest (2)" configurationId="JUnit" />
+    <history-entry file="StatistiqueTest - 2024.06.17 at 16h 00m 15s.xml">
+      <configuration name="StatistiqueTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StatistiqueTest_(2) - 2024.06.17 at 15h 21m 05s.xml">
-      <configuration name="StatistiqueTest (2)" configurationId="JUnit" />
+    <history-entry file="SuiteDeTests - 2024.06.17 at 16h 00m 49s.xml">
+      <configuration name="SuiteDeTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SuiteDeTests - 2024.06.17 at 16h 01m 13s.xml">
+      <configuration name="SuiteDeTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SuiteDeTests_(1) - 2024.06.17 at 16h 03m 23s.xml">
+      <configuration name="SuiteDeTests (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SuiteDeTests - 2024.06.17 at 16h 05m 11s.xml">
+      <configuration name="SuiteDeTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SuiteDeTests - 2024.06.17 at 16h 07m 59s.xml">
+      <configuration name="SuiteDeTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SuiteDeTests - 2024.06.17 at 16h 08m 22s.xml">
+      <configuration name="SuiteDeTests" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-3" y="31" width="1926" height="1003" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.124068156" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -384,14 +428,15 @@
       <window_info anchor="bottom" id="Messages" weight="0.3295325" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3295325" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3295325" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3295325" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3295325" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info active="true" anchor="right" id="Coverage" side_tool="true" visible="true" weight="0.32960597" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -442,6 +487,20 @@
       </breakpoints>
     </breakpoint-manager>
   </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Qdev2$SuiteDeTests.ic" NAME="SuiteDeTests Coverage Results" MODIFIED="1718633439858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Service.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Qdev2$StatistiqueTest.ic" NAME="StatistiqueTest Coverage Results" MODIFIED="1718632814809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>houssna.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Qdev2$SuiteDeTests__1_.ic" NAME="SuiteDeTests (1) Coverage Results" MODIFIED="1718633002446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>houssna2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Qdev2$StatistiqueTest__2_.ic" NAME="StatistiqueTest (2) Coverage Results" MODIFIED="1718632693853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Service.*</FILTER>
+    </SUITE>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -467,6 +526,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.github/workflows/actions.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/demo/DemoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" selection-start-column="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/houssna/VoitureTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -486,8 +569,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Service/StatistiqueImplement.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        <state relative-caret-position="403">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#236#245#0" expanded="true" />
@@ -501,28 +584,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/houssna/StatistiqueTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-30">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="-182">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/example/demo/DemoApplicationTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        <state>
+          <caret column="2" selection-start-column="2" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.github/workflows/actions.yml">
+    <entry file="file://$PROJECT_DIR$/src/test/java/houssna/SuiteDeTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -543,6 +623,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
+          <last-edited>No facets are configured</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -565,6 +646,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
+          <last-edited>8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -589,11 +671,11 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>org.junit.jupiter:junit-jupiter-engine:5.10.21</last-edited>
+          <last-edited>org.junit.platform:junit-platform-suite-engine:1.10.2</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.36377025" />
               </list>
             </option>
           </splitter-proportions>

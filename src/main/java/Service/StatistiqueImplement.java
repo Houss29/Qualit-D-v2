@@ -2,7 +2,6 @@ package Service;
 
         import houssna.Voiture;
         import java.util.ArrayList;
-        import java.util.List;
 
 public class StatistiqueImplement implements Statistique {
     private ArrayList<Voiture> listeVoiture = new ArrayList<Voiture>();
